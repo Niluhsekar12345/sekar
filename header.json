@@ -1,0 +1,15 @@
+{
+  "title": "Niluh Sekar",
+  "description": "Ini adalah tempat saya untuk berbagi segala pengetahuan yang saya peroleh tentang koding dan teknologi.",
+  "social": {
+    "ig": {
+      "url": "https://instagram.com/niluhskrlfa_",
+      "title": "niluhsekar"
+    },
+    "fb": {
+      "url": "https://web.facebook.com/niluhsekar/",
+      "title": "Niluh Sekar"
+    }
+  },
+  "imageProfile": "./images/remove%20bg.png"
+}

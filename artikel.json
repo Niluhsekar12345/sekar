@@ -1,0 +1,29 @@
+[
+  {
+    "num": "1",
+    "title": "Desain Grafis",
+    "description": "Pengalaman memulai desain grafis",
+    "thumbnail": "https://raw.githubusercontent.com//Niluhsekar12345/tekweb2022/main/images/1.png",
+    "author": "Niluh Sekar",
+    "published_at": "10 mei 2022",
+    "content": "Artikel_Desain Grafis.md"
+  },
+  {
+    "num": "2",
+    "title": "ilustrasi",
+    "description": "senang menggambar walau abstrak",
+    "thumbnail": "https://raw.githubusercontent.com//Niluhsekar12345/tekweb2022/main/images/2.png",
+    "author": "Niluh Sekar",
+    "published_at": "11 Mei 2022",
+    "content": "Ilustrasi.md"
+  },
+  {
+    "num": "3",
+    "title": "volunteer",
+    "description": "pengalaman jadi volunteer",
+    "thumbnail": "https://raw.githubusercontent.com//Niluhsekar12345/tekweb2022/main/images/Volunteer.png",
+    "author": "Niluh Sekar",
+    "published_at": "12 mei 2022",
+    "content": "Artikel_Volunteer.md"
+  }
+]
